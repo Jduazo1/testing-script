@@ -158,7 +158,7 @@ python leaderboard_1st_script.py
 If no more errors move onto the next script
 ## leaderboard_2nd_final_script.py
 On line 4 set the variable *class_name* to first word of xxxxx_1_raw.txt
--EX. juniors_1_raw.txt
+- EX. juniors_1_raw.txt
 ```
 class_name = ""     ------->    class_name = "juniors"
 ```
