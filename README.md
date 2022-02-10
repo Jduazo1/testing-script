@@ -35,6 +35,7 @@ Center
 98
 ...
 
+
 Make sure all needed files are in the folder.
 
 ## leaderbaord_1st_script.py
