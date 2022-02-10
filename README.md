@@ -15,25 +15,25 @@ Example:
 Paste all text into file named xxxxx_1_raw.txt
 - EX. "juniors_1_raw.txt"
 This is how file should look:
-RANK
-PLAYER_NAME
-TEAM
-POSITION
-OVERALL
+- RANK
+- PLAYER_NAME
+- TEAM
+- POSITION
+- OVERALL
 ...
 
 EX.
-1
-Fardaws Aimaq
-Utah Valley Wolverines
-Center
-99
-2
-Kofi Cockburn
-Illinois Fighting Illini
-Center
-98
-...
+- 1
+- Fardaws Aimaq
+- Utah Valley Wolverines
+- Center
+- 99
+- 2
+- Kofi Cockburn
+- Illinois Fighting Illini
+- Center
+- 98
+- ...
 
 
 Make sure all needed files are in the folder.
