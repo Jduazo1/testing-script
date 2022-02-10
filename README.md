@@ -57,8 +57,8 @@ The file should have the following format, each of these things in one line:
 RANK    PLAYER_NAME     TEAM    POSITION    OVERALL     NEXTONES_PLAYER_PROFILE_LINK    TEAM_IMAGE_LINK
 
 EX.
-1	Fardaws Aimaq	Utah Valley Wolverines	Center	99	https://nextones.com/player/fardaws-aimaq/statistics	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Futah-valley-wolverines.png?alt=media
-2	Kofi Cockburn	Illinois Fighting Illini	Center	98	https://nextones.com/player/kofi-cockburn/statistics	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Fillinois-fighting-illini.png?alt=media
+- 1	Fardaws Aimaq	Utah Valley Wolverines	Center	99	https://nextones.com/player/fardaws-aimaq/statistics	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Futah-valley-wolverines.png?alt=media
+- 2	Kofi Cockburn	Illinois Fighting Illini	Center	98	https://nextones.com/player/kofi-cockburn/statistics	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Fillinois-fighting-illini.png?alt=media
 
 Check the file for potential errors.
 ### POTENTIAL ERROR #1:
@@ -79,7 +79,7 @@ Guard                               Grand Canyon Antelopes
 Once completed save the xxxxx_1_raw.txt
 Run in the terminal of the folder again:
 ```shell
-python leaderbaord_1st_script.py
+python leaderboard_1st_script.py
 ```                             
 Check the file again and if all the players are there and it goes to the desired amount move on and check for the next error.
 
@@ -92,11 +92,11 @@ In the data_players_slug.txt file:
 - *make sure to separate the first and last name with a TAB*
 - after the last name hit tab again and paste the slug, the slug of a player is everything that is between "https://nextones.com/" AND "/statistics"
 EX.
-xxxxx_2_final.txt:
-61	Jovan Blacksher Jr.	Grand Canyon Antelopes	Guard	87	MISSING PLAYER SLUG	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Fgrand-canyon-antelopes.png?alt=media
+-xxxxx_2_final.txt:
+-61	Jovan Blacksher Jr.	Grand Canyon Antelopes	Guard	87	MISSING PLAYER SLUG	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Fgrand-canyon-antelopes.png?alt=media
 
-data_players_slug.txt:
-Jovan	Blacksher Jr.	jovan-blacksher-jr-
+-data_players_slug.txt:
+-Jovan	Blacksher Jr.	jovan-blacksher-jr-
 
 Once completed save the data_players_slug.txt and xxxxx_2_final.txt
 Run in the terminal of the folder again:
@@ -115,11 +115,11 @@ In the data_leaderboard_team_image_link.txt file:
 - start a new line at the bottom of the file and type out the team name exactly how it is on the xxxxx_2_final.txt 
 - after the team name hit tab and paste the firebase image link into the line
 EX.
-xxxxx_2_final.txt:
-4	E.J. Liddell	Ohio State Buckeyes	Forward	96	https://nextones.com/player/e-j-liddell-c82/statistics	MISSING TEAM IMAGE LINK
+- xxxxx_2_final.txt:
+- 4	E.J. Liddell	Ohio State Buckeyes	Forward	96	https://nextones.com/player/e-j-liddell-c82/statistics	MISSING TEAM IMAGE LINK
 
-data_leaderboard_team_image_link.txt:
-Ohio State Buckeyes	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Fohio-state-buckeyes.png?alt=media
+- data_leaderboard_team_image_link.txt:
+- Ohio State Buckeyes	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Fohio-state-buckeyes.png?alt=media
 
 Once completed save the data_leaderboard_team_image_link.txt and xxxxx_2_final.txt
 Run in the terminal of the folder again:
