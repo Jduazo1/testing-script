@@ -1,0 +1,750 @@
+1
+Fardaws Aimaq
+Utah Valley Wolverines
+Center
+99
+2
+Kofi Cockburn
+Illinois Fighting Illini
+Center
+98
+3
+Oscar Tshiebwe
+Kentucky Wildcats
+Forward
+97
+4
+E.J. Liddell
+Ohio State Buckeyes
+Forward
+96
+5
+Orlando Robinson
+Fresno State Bulldogs
+Forward
+95
+6
+Armando Bacot
+North Carolina Tar Heels
+Forward
+94
+7
+Max Abmas
+Oral Roberts Golden Eagles
+Guard
+94
+8
+Tanner Holden
+Wright State Raiders
+Guard
+93
+9
+David Roddy
+Colorado State Rams
+Guard
+93
+10
+Julian Champagnie
+St. John's Red Storm
+Guard
+92
+11
+Jayveous McKinnis
+Jackson State Tigers
+Center
+92
+12
+Isiaih Mosley
+Missouri State Bears
+Guard
+92
+13
+Grant Basile
+Wright State Raiders
+Forward
+92
+14
+Cameron Spencer
+Loyola (MD) Greyhounds
+Guard
+91
+15
+Teddy Allen
+New Mexico St Aggies
+Guard
+91
+16
+Christian Koloko
+Arizona Wildcats
+Center
+91
+17
+Ahsan Asadullah
+Lipscomb Bisons
+Center
+91
+18
+Jahmir Young
+Charlotte 49ers
+Guard
+91
+19
+Drew Pember
+UNC Asheville Bulldogs
+Forward
+90
+20
+Trenton Massner
+W Illinois Leathernecks
+Guard
+90
+21
+Tevin Brown
+Murray State Racers
+Guard
+90
+22
+KJ Williams
+Murray State Racers
+Forward
+90
+23
+Josh Oduro
+George Mason Patriots
+Forward
+90
+24
+Chris Ledlum
+Harvard Crimson
+Forward
+90
+25
+Aaron Estrada
+Hofstra Pride
+Guard
+90
+26
+Jalen Williams
+Santa Clara Broncos
+Guard
+90
+27
+Grant Sherfield
+Nevada Wolf Pack
+Guard
+90
+28
+Drew Timme
+Gonzaga Bulldogs
+Forward
+90
+29
+Sincere Carry
+Kent State Golden Flashes
+Guard
+90
+30
+Antonio Reeves
+Illinois State Redbirds
+Guard
+89
+31
+Iverson Molinar
+Mississippi St Bulldogs
+Guard
+89
+32
+Isaiah Mobley
+USC Trojans
+Forward
+89
+33
+Souley Boum
+UTEP Miners
+Guard
+89
+34
+Jalen Moore
+Oakland Golden Grizzlies
+Guard
+89
+35
+Jake LaRavia
+Wake Forest Demon Deacons
+Forward
+89
+36
+John-Michael Wright
+High Point Panthers
+Guard
+89
+37
+Isaac Mushila
+Texas A&M-CC Islanders
+Forward
+88
+38
+Terry Roberts
+Bradley Braves
+Guard
+88
+39
+Scotty Pippen Jr.
+Vanderbilt Commodores
+Guard
+88
+40
+Jordan Walker
+UAB Blazers
+Guard
+88
+41
+Christian Braun
+Kansas Jayhawks
+Guard
+88
+42
+Charles Pride
+Bryant Bulldogs
+Guard
+88
+43
+Jordan Minor
+Merrimack Warriors
+Forward
+88
+44
+Justin Johnson
+UT Rio Grande Vaqueros
+Guard
+88
+45
+Jesse Edwards
+Syracuse Orange
+Center
+88
+46
+Neal Quinn
+Lafayette Leopards
+Forward
+88
+47
+JT Shumate
+Toledo Rockets
+Forward
+87
+48
+Marcus Sasser
+Houston Cougars
+Guard
+87
+49
+Lamar Norman Jr.
+W Michigan Broncos
+Guard
+87
+50
+Tyree Corbett
+Coppin State Eagles
+Forward
+87
+51
+Tyler Burton
+Richmond Spiders
+Forward
+87
+52
+K.J. Simon
+UT Martin Skyhawks
+Guard
+87
+53
+Wendell Moore Jr.
+Duke Blue Devils
+Forward
+87
+54
+Isaiah Stevens
+Colorado State Rams
+Guard
+87
+55
+Tosan Evbuomwan
+Princeton Tigers
+Forward
+87
+56
+Omari Moore
+San José State Spartans
+Guard
+87
+57
+Tyler Thomas
+Sacred Heart Pioneers
+Guard
+87
+58
+Jaelen House
+New Mexico Lobos
+Guard
+87
+59
+Branden Carlson
+Utah Utes
+Center
+87
+60
+Jaden Shackelford
+Alabama Crimson Tide
+Guard
+87
+61
+Jovan Blacksher Jr.
+Grand Canyon Antelopes
+Guard
+87
+62
+Dae Dae Grant
+Miami (OH) Redhawks
+Guard
+87
+63
+Noah Fernandes
+UMass Minutemen
+Guard
+87
+64
+Hyunjung Lee
+Davidson Wildcats
+Guard
+87
+65
+Johnny Juzang
+UCLA Bruins
+Guard
+87
+66
+Madut Akec
+Detroit Mercy Titans
+Forward
+87
+67
+AJ Green
+Northern Iowa Panthers
+Guard
+86
+68
+Kobe Brown
+Missouri Tigers
+Forward
+86
+69
+Jamarion Sharp
+Western KY Hilltoppers
+Center
+86
+70
+Linton Acliese
+E Washington Eagles
+Forward
+86
+71
+Robert Carpenter
+Miss Valley St Delta Devils
+Forward
+86
+72
+Tevin Brewer
+FIU Panthers
+Guard
+86
+73
+Tyler Robertson
+Portland Pilots
+Guard
+86
+74
+Tyler Stevenson
+Southern Miss Golden Eagles
+Forward
+86
+75
+B.J. Mack
+Wofford Terriers
+Forward
+86
+76
+Rob Perry
+Stetson Hatters
+Guard
+86
+77
+Cameron Henry
+Indiana State Sycamores
+Guard
+86
+78
+Antonio Daye Jr.
+Fordham Rams
+Guard
+86
+79
+Marcus Domask
+S Illinois Salukis
+Forward
+86
+80
+Darious Hall
+C Arkansas Bears
+Guard
+85
+81
+Kamdyn Curfman
+VMI Keydets
+Guard
+85
+82
+Stephen Clark
+The Citadel Bulldogs
+Forward
+85
+83
+Justin Moore
+Villanova Wildcats
+Guard
+85
+84
+Jamal Bieniemy
+UTEP Miners
+Guard
+85
+85
+Santiago Vescovi
+Tennessee Volunteers
+Guard
+85
+86
+Evan Taylor
+Lehigh Mountain Hawks
+Guard
+85
+87
+Andrew Taylor
+Marshall Thundering Herd
+Guard
+85
+88
+Jubrile Belo
+Montana State Bobcats
+Forward
+85
+89
+Jacob Germany
+UTSA Roadrunners
+Center
+85
+90
+Jalen Johnson
+Alabama A&M Bulldogs
+Forward
+84
+91
+Foster Loyer
+Davidson Wildcats
+Guard
+84
+92
+Dane Goodwin
+Notre Dame Fighting Irish
+Guard
+84
+93
+D.J. Burns Jr.
+Winthrop Eagles
+Forward
+84
+94
+Jack Nunge
+Xavier Musketeers
+Forward
+84
+95
+Joel Murray
+Long Beach St Beach
+Guard
+84
+96
+Gus Okafor
+SE Louisiana Lions
+Guard
+84
+97
+Tyrone Lyons
+Southern Jaguars
+Guard
+84
+98
+KJ Hunt
+Denver Pioneers
+Guard
+84
+99
+Malique Jacobs
+Kent State Golden Flashes
+Guard
+84
+100
+Ben Sheppard
+Belmont Bruins
+Guard
+84
+101
+Dhieu Deing
+UTSA Roadrunners
+Guard
+84
+102
+Sir'Jabari Rice
+New Mexico St Aggies
+Guard
+83
+103
+Boo Buie
+Northwestern Wildcats
+Guard
+83
+104
+Davonte Gaines
+George Mason Patriots
+Guard
+83
+105
+Race Thompson
+Indiana Hoosiers
+Forward
+83
+106
+Ben Krikke
+Valparaiso Beacons
+Forward
+83
+107
+Jahvon Quinerly
+Alabama Crimson Tide
+Guard
+83
+108
+Jaime Jaquez Jr.
+UCLA Bruins
+Guard
+83
+109
+Setric Millner Jr.
+Toledo Rockets
+Forward
+83
+110
+Ledarrius Brewer
+ETSU Buccaneers
+Guard
+83
+111
+Tolu Smith
+Mississippi St Bulldogs
+Forward
+83
+112
+Anthony Roberts
+Stony Brook Seawolves
+Guard
+83
+113
+Desi Sills
+Arkansas State Red Wolves
+Guard
+83
+114
+James Bishop
+G Washington Colonials
+Guard
+83
+115
+Markquis Nowell
+Kansas State Wildcats
+Guard
+83
+116
+Joseph Girard III
+Syracuse Orange
+Guard
+83
+117
+Kevion Nolan
+Jacksonville Dolphins
+Guard
+83
+118
+Hunter Marks
+Hartford Hawks
+Forward
+83
+119
+Eric Reed Jr.
+SE Missouri St Redhawks
+Guard
+83
+120
+Kruz Perrott-Hunt
+South Dakota Coyotes
+Guard
+83
+121
+Michael Forrest
+FAU Owls
+Guard
+83
+122
+Tyler Cochran
+Ball State Cardinals
+Guard
+83
+123
+RayJ Dennis
+Toledo Rockets
+Guard
+83
+124
+Colton Sandage
+W Illinois Leathernecks
+Guard
+83
+125
+Demetric Horton
+NC A&T Aggies
+Guard
+83
+126
+Lance Jones
+S Illinois Salukis
+Guard
+83
+127
+Neftali Alvarez
+Mercer Bears
+Guard
+83
+128
+Cooper Neese
+Indiana State Sycamores
+Guard
+82
+129
+Trey Calvin
+Wright State Raiders
+Guard
+82
+130
+Jameer Nelson Jr.
+Delaware Blue Hens
+Guard
+82
+131
+Sam Griesel
+N Dakota St Bison
+Guard
+82
+132
+Kalu Ezikpe
+Old Dominion Monarchs
+Forward
+82
+133
+DeAndre Gholston
+Milwaukee Panthers
+Guard
+82
+134
+Chris Austin
+Portland Pilots
+Guard
+82
+135
+Chris Doherty
+Northeastern Huskies
+Forward
+82
+136
+Tylor Perry
+North Texas Mean Green
+Guard
+82
+137
+Seth Lundy
+Penn State Nittany Lions
+Forward
+82
+138
+Vado Morse
+James Madison Dukes
+Guard
+82
+139
+Jordan Wright
+Vanderbilt Commodores
+Forward
+82
+140
+Terrell Burden
+Kennesaw State Owls
+Guard
+82
+141
+Nicolas Timberlake
+Towson Tigers
+Guard
+82
+142
+Jalen Benjamin
+Mount St Mary Mountaineers
+Guard
+82
+143
+Matt Balanc
+Quinnipiac Bobcats
+Guard
+82
+144
+Trevante Anderson
+Idaho Vandals
+Guard
+82
+145
+Tykei Greene
+Stony Brook Seawolves
+Guard
+82
+146
+Donta Scott
+Maryland Terrapins
+Forward
+82
+147
+Jesus Carralero
+Campbell Fighting Camels
+Forward
+82
+148
+Xavier Castaneda
+Akron Zips
+Guard
+82
+149
+Jacob Falko
+Binghamton Bearcats
+Guard
+82
+150
+Lance Terry
+Gardner-Webb Runnin' Bulldogs
+Guard
+82
