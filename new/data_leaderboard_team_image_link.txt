@@ -303,3 +303,4 @@ Tennessee Tech Golden Eagles	https://firebasestorage.googleapis.com/v0/b/samico-
 MTSU Blue Raiders	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Fmtsu-blue-raiders.png?alt=media
 Washington St Cougars	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Fwashington-st-cougars.png?alt=media
 South Carolina Gamecocks	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Fsouth-carolina-gamecocks.png?alt=media
+Ohio State Buckeyes	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/college-logos%2Fohio-state-buckeyes.png?alt=media
