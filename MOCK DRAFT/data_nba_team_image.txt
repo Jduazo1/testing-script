@@ -1,0 +1,30 @@
+Orlando Magic	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Forlando-magic.png?alt=media&token=e411e3f5-ff05-4f3f-8efa-290ce13bb6ee
+Detroit Pistons	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fdetroit-pistons.png?alt=media&token=cc5af693-d2f2-4432-ba4e-9ff32f8e7e03
+Houston Rockets	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fhouston-rockets.png?alt=media&token=1324a57e-94ad-42d0-8785-8db5bd7a36cc
+Oklahoma City Thunder	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fokc-thunder.png?alt=media&token=296cbcec-02a9-418a-8c81-779650f24570
+Indiana Pacers	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Findiana-pacers.png?alt=media&token=1d6f5e06-7549-4b80-836d-d866044732ea
+New Orleans Pelicans	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fnew-orleans-pelicans.png?alt=media&token=5a5165a1-9552-474d-a03f-7f4702077fe2
+San Antonio Spurs	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fsan-antonio-spurs.png?alt=media&token=f1fd503f-70f0-4170-ae2a-fe6c696d54f4
+Sacramento Kings	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fsacramento-kings.png?alt=media&token=bd136556-8bae-456a-b791-d0a88295ee16
+Atlanta Hawks	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fatlanta-hawks.png?alt=media&token=26c58475-b016-4044-9d27-2ffa8ed71b01
+Portland Trailblazers	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fportland-trail-blazers.png?alt=media&token=6d4307c0-7306-494f-9f99-7541213fe6c7
+Minnesota Timberwolves	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fminnesota-timberwolves.png?alt=media&token=307b1abe-3e52-4a17-9576-5bbd1fbaa95f
+New York Knicks	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fnew-york-knicks.png?alt=media&token=1762a47c-d23a-4a01-8479-35a93c22a23b
+Boston Celtics	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fboston-celtics.png?alt=media&token=9e94ce79-ca5b-4973-a7c8-e5d854f3e642
+Toronto Raptors	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Ftoronto-raptors.png?alt=media&token=334b42ee-151a-4ec4-ac54-b3afa2ef61cf
+Memphis Grizzlies	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fmemphis-grizzlies.png?alt=media&token=8a91e88c-3c79-45f9-a6a6-51a2927c28c5
+Washington Wizards	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fwashington-wizards.png?alt=media&token=5d2441fb-4336-4deb-89c7-90d8c97a32fd
+Denver Nuggets	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fdenver-nuggets.png?alt=media&token=4daac36f-7123-4116-8c92-9f37f23854a6
+Dallas Mavericks	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fdallas-mavericks.png?alt=media&token=fddeba7e-f0c8-4696-9981-dbf1ad1b60ef
+Philadelphia 76ers	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fphiladelphia-76ers.png?alt=media&token=3b4d1085-49b3-4555-bdb8-98afa6061b6a
+Milwaukee Bucks	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fmilwaukee-bucks.png?alt=media&token=874c527e-dba8-4d67-921c-a973d06c9d1f
+Cleveland Cavaliers	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fcleveland-cavaliers.png?alt=media&token=de5f6cef-8259-491e-8cf7-69b32003dd09
+Miami Heat	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fmiami-heat.png?alt=media&token=0ec82159-0e93-4c56-ba39-8ee1d30e3ddb
+Chicago Bulls	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fchicago-bulls.png?alt=media&token=35f385a3-fa09-405b-8b76-9231f82a632e
+Golden State Warriors	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fgolden-state-warriors.png?alt=media&token=8930a001-06e3-4b3b-b9fa-3adf6c31002a
+Brooklyn Nets	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fbrooklyn-nets.png?alt=media&token=a54e0534-24d1-4d42-a975-bcf9b11d9f0c
+Charlotte Hornets	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fcharlotte-hornets.png?alt=media&token=a3f43191-eb00-48a5-ab32-eff959318291
+LA Clippers	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fla-clippers.png?alt=media&token=613042e9-553b-49a3-a596-46d4a3c5d15d
+Utah Jazz	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Futah-jazz.png?alt=media&token=1cfeb1d0-5d64-43ad-9c5f-2fc77213810d
+Phoenix Suns	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fphoenix-suns.png?alt=media&token=1f202514-a095-4a22-87ad-d36734cb4c28
+LA Lakers	https://firebasestorage.googleapis.com/v0/b/samico-nextones.appspot.com/o/nba-logos%2Fla-lakers.png?alt=media&token=617dd507-a9b8-41d6-8e79-3d2b027560c2
