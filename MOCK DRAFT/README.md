@@ -28,6 +28,7 @@ name = ""    -----> name = "feb17"
 ```shell
 python mock_draft_script.py
 ```
+5) There should now be a file named xxxxx__mock_draft_end.html
 
 
 
